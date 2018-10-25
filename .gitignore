@@ -1,0 +1,8 @@
+node_modules/**/*
+.expo/*
+/.expo/*
+npm-debug.*
+.DS_Store
+.jshintrc
+.idea/workspace.xml
+.idea

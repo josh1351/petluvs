@@ -1,0 +1,2 @@
+export const baseurl = 'http://192.168.0.11:3001/api';
+export const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjViOTQ5YzIyN2M2MTZkNmE0NGU5NWRlMiIsImNvbmZpcm1lZCI6ZmFsc2UsImlhdCI6MTUzNjkwODY2Nn0.GJDQVhbdVc0sGuJngivNwuJYfEOk2zGRmP77CT0FqrI';
